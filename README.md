@@ -1,2 +1,7 @@
 # Cobra Nuker
-This was created in Python that include a six different features.
+Created in python with six different features listed below, for support join https://discord.gg/programs.
+
+Requirements:
+- Discord Administrator
+- Python + Add to Path
+
