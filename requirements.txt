@@ -1,1 +1,7 @@
+Python: https://www.python.org/downloads/
+
+Run the following commands in CMD Prompt:
 pip install pystyle
+pip install discord
+pip install asyncio
+pip install colorama
