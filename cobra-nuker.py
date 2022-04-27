@@ -12,7 +12,7 @@ webbrowser.open('https://discord.gg/programs')
 client = commands.Bot(command_prefix="!", intents = discord.Intents.all()) # change the bot prefix
 client.remove_command('help')
 
-token = 'OTY4MDIwOTkxMDA1NTY0OTM4.YmYxzQ.ycH9y3RxngXgN4OsG3jsLO_XoJk' #token
+token = 'TOKEN ID' #token
 channel_names = ['Conetic', 'Get FUCKED', 'PC Programs']
 message_spam = ['@everyone Fucked By Conetic https://discord.gg/programs', '@everyone Fucked By PC Programs https://discord.gg/programs']
 webhook_names = ['PC Programs', 'Conetic']
